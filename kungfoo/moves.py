@@ -9,3 +9,7 @@ def kick() -> None:
 
 def knee() -> None:
     print("dragon knee of power!")
+
+
+def threaten() -> None:
+    print("die scumbag!")
