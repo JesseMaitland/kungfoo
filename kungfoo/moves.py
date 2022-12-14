@@ -21,3 +21,7 @@ def jump() -> None:
 
 def slap() -> None:
     print("power slap!!")
+
+
+def yell() -> None:
+    print("yell very loud!")
