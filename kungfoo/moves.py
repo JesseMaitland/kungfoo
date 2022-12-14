@@ -17,3 +17,11 @@ def threaten() -> None:
 
 def jump() -> None:
     print("over your head!!")
+
+
+def slap() -> None:
+    print("power slap!!")
+
+
+def yell() -> None:
+    print("yell very loud!")
