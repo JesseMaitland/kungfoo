@@ -21,3 +21,6 @@ def jump() -> None:
 
 def dragon() -> None:
     print("make a dragon kick!")
+
+def some_complex_thing() -> None:
+    print("some heavy code and thinking")
